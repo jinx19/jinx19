@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jinx19
 - 👀 I’m interested in ML, DL and Signal Processing
-- 🌱 I’m currently learning DL techinques and Kreras.
-- 📫 How to reach me ...
+- 🌱 I’m currently learning DL techniques and Keras.
+- 📫 How to reach me...
 - gmail: naidusuryakiran@gmail.com
 - Linkedin: https://www.linkedin.com/in/surya-naidu-86bb3221b/
 
