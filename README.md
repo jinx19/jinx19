@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jinx19
-- 👀 I’m interested in ML, DL and Signal Processing
+- 👀 I’m interested in applications of ML, DL and Signal Processing in Medical Field.
 - 🌱 I’m currently learning DL techniques and Keras.
 - 📫 How to reach me...
 - gmail: naidusuryakiran@gmail.com
