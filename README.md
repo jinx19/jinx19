@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jinx19
+- 👋 Hi, I’m Surya Naidu (@jinx19)
 - 👀 Research interest in applications of ML, DL and Signal Processing in Medical Field.
 - 🌱 Currently working on Transformers, DL techniques and Pytorch.
 - 📫 How to reach me...
