@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jinx19
-- 👀 I’m interested in applications of ML, DL and Signal Processing in Medical Field.
-- 🌱 I’m currently working on Transformers, DL techniques and Pytorch.
+- 👀 Research interest in applications of ML, DL and Signal Processing in Medical Field.
+- 🌱 Currently working on Transformers, DL techniques and Pytorch.
 - 📫 How to reach me...
 - gmail: naidusuryakiran@gmail.com
 - Linkedin: https://www.linkedin.com/in/surya-naidu-86bb3221b/
