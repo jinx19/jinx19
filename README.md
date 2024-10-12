@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Surya Naidu (@jinx19)
 - 👀 Research interest in applications of ML, DL and Signal Processing in Medical Field.
-- 🌱 Currently working on Transformers, DL techniques and Pytorch.
+- 🌱 Currently working on Lung Sound Analysis, Digital Twin Applications for Cardiology.
 - 📫 How to reach me...
-- gmail: naidusuryakiran@gmail.com
+- gmail: snaidu4@jh.edu
 - Linkedin: https://www.linkedin.com/in/surya-naidu-86bb3221b/
 - Portfolio: https://jinx19.github.io/suryanaidu/index.html
 
