@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Surya Naidu (@jinx19)
 - 👀 Research interest in applications of ML, DL and Signal Processing in Medical Field.
-- 🌱 Currently working on Lung Sound Analysis, Digital Twin Applications for Cardiology.
+- 🌱 Currently working on Material Decomposition for Photon Counting CT.
 - 📫 How to reach me...
 - gmail: snaidu4@jh.edu
 - Linkedin: https://www.linkedin.com/in/surya-naidu-86bb3221b/
